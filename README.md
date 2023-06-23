@@ -1,6 +1,6 @@
 # Emotion-Recognizer
 The facial expression recognition project will involve the usage of a Computer Vision, deep learning model and convolutional neural networks.
-Important Libraries: pip install numpy, pip install opencv-python, pip install mediapipe, pip install pycaw, pip install python-math, pip install gpib-ctypes, comtypes, pip install face-emotion-recognistion.
+Important Libraries: pip install opencv-python, pip install face-emotion-recognition.
 
 **Necessary Configuration:** ./site-package/torch/serialization.py
 
